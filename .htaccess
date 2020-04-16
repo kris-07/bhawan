@@ -4,4 +4,4 @@ RewriteEngine on
 #RewriteRule ^(.*)$ $1.html [NC,L]
 
 
-RewriteRule ^mysite?$ https://home.bhawan.co.in/
+RewriteRule ^mysite?$ abc.html
